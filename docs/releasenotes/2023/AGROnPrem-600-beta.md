@@ -1,14 +1,15 @@
 ### AnalyticsGate OnPrem Reporting
 
 *New Features*
-
-- include feature to activate and deactivate jobs
-- include better logging
-- fix validation of cron format in scheduling apps
-- include online check on home site
+- Completely redesigned installer
+- Full Microsoft .NET 6 support
+- All application modules have been updated
+- The type of filtering can be better influenced
+- HTTP/2 protocol support
+- New Chromium browser support for chart rendering
+- Support of new license types
+- New output format of the report as Png and Jpg file
 
 *Fixed Bugs*
-
-- fix licensing issue
-- fix online validation for scheduler and connector
-- fix script validation bevor save application
+- General bug fixes to optimize processing
+- Session pool optimization
