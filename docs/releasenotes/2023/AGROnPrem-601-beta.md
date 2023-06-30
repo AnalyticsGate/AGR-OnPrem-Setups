@@ -5,8 +5,9 @@
 - Dependent components have been updated
 
 *Fixed Bugs*
-- XLSB files could not be saved without errors because the save type object has changed.
+- XLSB files could not be saved without errors because the save type object has changed
 - Manual call of the installation of certificates in the support console could not be started
+- Sheetloop with a old template failed
 
 ### AnalyticsGate OnPrem Management Console
 
