@@ -5,6 +5,7 @@
 - Dependent components have been updated
 - Extensions of the renderer functionalities
 - The AutoFitTables property is now split into two properties AutoFitRows and AutoFitColumns.
+- Anhanced handling of PivotTables
 
 *Fixed Bugs*
 - XLSB files could not be saved without errors because the save type object has changed
