@@ -12,3 +12,4 @@
 - Manual call of the installation of certificates in the support console could not be started
 - Sheetloop with a old template failed
 - The installer had problems with spaces in the name of the service user
+- Rollback of the Chromium Renderer Engine to Version 109
