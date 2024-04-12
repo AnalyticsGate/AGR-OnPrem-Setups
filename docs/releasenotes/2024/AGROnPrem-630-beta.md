@@ -22,4 +22,5 @@ CAUTION: Microsoft Windows 8/8.1 and Server 2012/R2 are no longer supported to c
 - Fixed handling NULL values that come from Qlik table data
 - Fixed issue with report count logic
 - Lib statements for templates are working again
+- Fixed Settings in Management Console were not set correctly
 
