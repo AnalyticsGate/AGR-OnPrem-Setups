@@ -2,7 +2,7 @@
 
 *New Features*
 - Updated all included packages
-- Migration from .NET6 to .NET4.8
+- Migration from .NET6 to .NET8
 
 *Fixed Bugs*
 - Fixed wrong HTML color value in certain situations
