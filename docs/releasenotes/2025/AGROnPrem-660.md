@@ -4,4 +4,4 @@
 - New html color converter
 - New Chromium and chromedriver - Version 132
 - Updated all included packages
-- Hardening of the individual AG services (All services now only listen to localhost)
+- Hardening of the individual AG services
