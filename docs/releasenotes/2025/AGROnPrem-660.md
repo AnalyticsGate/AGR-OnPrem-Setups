@@ -5,6 +5,8 @@
 - New Chromium and chromedriver - Version 132
 - Updated all included packages
 - Hardening of the individual AG services
+- Masked password entry fields by asterisk, added button for toggling clear text in-/visible
+- Warning is shown when opening published app, added new column "Published Stream" to app table
 
 *Fixed Bugs*
 - Fixed by rendering images
