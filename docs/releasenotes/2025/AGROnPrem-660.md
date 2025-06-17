@@ -10,3 +10,4 @@
 
 *Fixed Bugs*
 - Fixed by rendering images
+- It can still be installed even though the user is not in the admin group
