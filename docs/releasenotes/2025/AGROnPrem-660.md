@@ -9,5 +9,5 @@
 - Warning is shown when opening published app, added new column "Published Stream" to app table
 
 *Fixed Bugs*
-- Fixed by rendering images
+- Fixed errors while rendering complete sheets
 - It can still be installed even though the user is not in the admin group
