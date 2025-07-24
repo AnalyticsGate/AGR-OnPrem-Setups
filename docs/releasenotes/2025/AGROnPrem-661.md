@@ -5,3 +5,4 @@
 
 *Fixed Bugs*
 - Fixed errors when using Total rows
+- Fix with new XML String Formatter
