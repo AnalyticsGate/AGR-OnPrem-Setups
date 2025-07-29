@@ -6,5 +6,5 @@
 *Fixed Bugs*
 - Fixed errors when using Total rows
 - Fix with new XML String Formatter
-- Fix Selection Bug
-- Fix Selection Bug with alternative states
+- Fix selection bug
+- Fix selection bug with alternative states
