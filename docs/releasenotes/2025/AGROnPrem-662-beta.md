@@ -9,3 +9,4 @@
 - Fix with new XML String Formatter
 - Fix selection bug with alternative states
 - Wrong renderer image size
+- Bugfix by SenseEV formula in sheet loop
