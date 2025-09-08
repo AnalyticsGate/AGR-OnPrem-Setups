@@ -10,3 +10,4 @@
 - Fix selection bug with alternative states
 - Wrong renderer image size
 - Bug fix by SenseEV formula in sheet loop
+- Fix for text color form Qlik
