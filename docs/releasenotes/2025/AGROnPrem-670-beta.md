@@ -8,6 +8,8 @@
 - Fixed errors when using total rows
 - Fix with new XML string formatter
 - Fix selection bug with alternative states
+- Fixed selection bug with suppressed drop-down of field values
+- Fixed missing quotes bug in JSON output
 - Wrong renderer image size
 - Bug fix by SenseEV formula in sheet loop
 - Fix for text color form Qlik
