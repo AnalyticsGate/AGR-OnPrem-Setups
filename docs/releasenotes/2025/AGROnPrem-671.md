@@ -1,4 +1,6 @@
 ### AnalyticsGate OnPrem Reporting
+*New Features*
+- Updated packages for all modules
 
 *Fixed Bugs*
 - Better exception handling in Tables
