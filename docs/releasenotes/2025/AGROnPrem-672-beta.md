@@ -1,5 +1,4 @@
 ### AnalyticsGate OnPrem Reporting
 
 *Fixed Bugs*
-- Better exception handling in Tables
-- Fix certificate error in senseimage formula
+- Bug fix when emails are sent without a user name and password
