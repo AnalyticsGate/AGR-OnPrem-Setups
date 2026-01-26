@@ -1,5 +1,6 @@
 ### AnalyticsGate OnPrem Reporting
 
 *Fixed Bugs*
-- Bug fix when emails are sent without a user name and password
-- Bug fix email property mismatch 'authoryUri' 'authorityUri'
+- Fix when emails are sent without a user name and password
+- Fix email property mismatch 'authoryUri' 'authorityUri'
+- Fix for send the status email cleanly
