@@ -1,3 +1,3 @@
 ### AnalyticsGate OnPrem Reporting
 *New Features*
-- New switch Certificates can be ignored if the name does not match the certificate.
+- New property "Ignore Certificate": all certificate settings will be ignored if set to true.
