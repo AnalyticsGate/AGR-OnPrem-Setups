@@ -3,4 +3,4 @@
 - Update all external packages
 
 *Fixed Bugs*
-- Bug
+- Fix security bugs
