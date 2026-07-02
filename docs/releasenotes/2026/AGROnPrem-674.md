@@ -1,6 +1,7 @@
 ### AnalyticsGate OnPrem Reporting
 *New Features*
-- Update all external packages
+- Updated all external packages
 
 *Fixed Bugs*
-- Fix security bugs
+- Fixed security bugs
+- Fixed conversion bug in mail server settings
